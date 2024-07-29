@@ -1,0 +1,12 @@
+[algorithm]
+
+[data_op]
+save_path = "src/data"
+
+[get_data]
+
+[gui]
+MainWindow.resize = [1960, 1080]
+
+[plot]
+
