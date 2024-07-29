@@ -13,4 +13,5 @@ class Algorithm:
 
 
 if __name__ == "__main__":
+    print(conf["gui"]["MainWindow"]["resize"])
     pass
